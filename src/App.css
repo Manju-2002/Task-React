@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.app {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+h1 {
+ Color: blue;
+ text-align: center;
+ font-size: 40px;
+
+}
